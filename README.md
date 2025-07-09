@@ -29,17 +29,6 @@ As queries presentes no projeto incluem:
 
 Essas consultas têm como objetivo explorar dados, encontrar padrões e simular situações comuns de análise em empresas.
 
----
-
-## 💻 Como utilizar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/laviniahaddad/NOME_DO_REPOSITORIO.git
-2. Abra o arquivo projeto_inicial.sql com o pgAdmin ou qualquer editor de SQL.
-
-3. Execute os blocos de código no seu servidor PostgreSQL.
-
 
    📚 Tecnologias usadas
 PostgreSQL
